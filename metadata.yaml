@@ -1,0 +1,28 @@
+_repo: La-belle-Gabrielle---Tome-3_15686
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maquet, Auguste
+    birthdate: 1813
+    deathdate: 1888
+    gutenberg_agent_id: '3930'
+    url: http://www.gutenberg.org/2009/agents/3930
+    wikipedia: http://fr.wikipedia.org/wiki/Auguste_Maquet
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15686'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction'
+- !lcc 'PQ'
+title: La belle Gabrielle — Tome 3
+url: http://www.gutenberg.org/ebooks/15686
