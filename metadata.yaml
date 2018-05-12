@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3930
     wikipedia: http://fr.wikipedia.org/wiki/Auguste_Maquet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15686#La-belle-Gabrielle---Tome-3
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-04-23'
 gutenberg_type: Text
